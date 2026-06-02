@@ -69,3 +69,6 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-NoD
 🔗 **Официальные ссылки на полный юридический текст:**
 * [Краткое содержание лицензии на русском языке](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru)
 * [Полный юридический текст лицензии на русском языке](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ru)
+
+---
+[⬅️ Назад до Головного Архіву](README.md) | [🪙 Підтримати проєкт](CONTRIBUTION.md)
