@@ -1,6 +1,6 @@
 # 📜 LICENSE.md
 
-## 🇺🇦 1. УКРАЇНСЬКА (офіційна ліцензійна угода українською мовою)
+## 🇺🇦 1. УКРАЇНСЬКА (Ліцензійна угода)
 
 ### ПРЕАМБУЛА СУВЕРЕНА & ДЕКЛАРАЦІЯ ВОЛІ
 > **УВАГА:** Цей літературний та науково-філософський твір є **Даром за вільною волею** Автора, який виступає виключно як Суверен та єдиний кінцевий Бенефіціар свого інтелектуального контуру. 
@@ -11,16 +11,16 @@
 Цей твір розповсюджується на умовах міжнародної ліцензії **Creative Commons «Attribution-NonCommercial-NoDerivatives» 4.0 Всесвітня (CC BY-NC-ND 4.0)**.
 
 **Ви маєте право:**
-*   **Поширювати:** Копіювати і розповсюджувати матеріал у будь-якому вигляді чи форматі.
+* **Поширювати:** Копіювати і розповсюджувати матеріал у будь-якому вигляді чи форматі.
 
-**На таких умовах:**
-*   **Attribution (Зазначення авторства):** Ви повинні надати відповідне відображення авторства та вказати посилання на оригінальний репозиторій.
-*   **NonCommercial (Некомерційне використання):** Ви не маєте права використовувати цей матеріал для комерційних цілей або отримання фінансового зиску.
-*   **NoDerivatives (Без похідних творів):** Якщо ви переробляєте, змінюєте або створюєте щось на основі цього матеріалу, ви не можете розповсюджувати змінений матеріал.
+**За таких умов:**
+* **Attribution (Зазначення авторства):** Ви повинні належним чином вказати авторство та надати посилання на оригінальний репозиторій.
+* **NonCommercial (Некомерційне використання):** Ви не маєте права використовувати цей матеріал для комерційних цілей чи отримання фінансового зиску.
+* **NoDerivatives (Без похідних творів):** Якщо ви переробляєте, змінюєте або створюєте щось на основі цього матеріалу, ви не можете розповсюджувати змінений матеріал.
 
 🔗 **Офіційні посилання на повний юридичний текст:**
-*   [Стислий зміст ліцензії (Дар) українською](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.uk)
-*   [Повний юридичний код ліцензії (Legal Code) українською](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.uk)
+* [Стислий зміст ліцензії (Дар) українською мовою](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.uk)
+* [Повний юридичний код ліцензії (Legal Code) українською мовою](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.uk)
 
 ---
 
@@ -35,20 +35,20 @@
 This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
 **You are free to:**
-*   **Share:** Copy and redistribute the material in any medium or format.
+* **Share:** Copy and redistribute the material in any medium or format.
 
 **Under the following terms:**
-*   **Attribution:** You must give appropriate credit and provide a link to the original repository.
-*   **NonCommercial:** You may not use the material for commercial purposes or financial gain.
-*   **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
+* **Attribution:** You must give appropriate credit and provide a link to the original repository.
+* **NonCommercial:** You may not use the material for commercial purposes or financial gain.
+* **NoDerivatives:** If you remix, transform, or build upon the material, you may not distribute the modified material.
 
 🔗 **Official links to the full legal framework:**
-*   [License Deed Summary in English](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-*   [Full Legal Code in English](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+* [License Deed Summary in English](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+* [Full Legal Code in English](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
 ---
 
-## 🇷🇺 3. РУССКИЙ (официальное лицензионное соглашение на русском языке)
+## 🇷🇺 3. РУССКИЙ (Лицензионное соглашение)
 
 ### ПРЕАМБУЛА СУВЕРЕНА И ДЕКЛАРАЦИЯ ВОЛИ
 > **ВНИМАНИЕ:** Данное литературное и научно-философское произведение является **Даром по доброй воле** Автора, выступающего исключительно как Суверен и единственный конечный Бенефициар своего интеллектуального контура. 
@@ -59,13 +59,13 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-NoD
 Это произведение распространяется на условиях международной лицензии **Creative Commons «Attribution-NonCommercial-NoDerivatives» 4.0 Всемирная (CC BY-NC-ND 4.0)**.
 
 **Вы вправе:**
-*   **Делиться:** Копировать и распространять материал на любом носителе и в любом формате.
+* **Делиться:** Копировать и распространять материал на любом носителе и в любом формате.
 
 **При соблюдении следующих условий:**
-*   **Attribution (Атрибуция):** Вы должны обеспечить соответствующее указание авторства и предоставить ссылку на оригинальный репозиторий.
-*   **NonCommercial (Некоммерческое использование):** Вы не вправе использовать этот material в коммерческих целях или для получения финансовой выгоды.
-*   **NoDerivatives (Без производных произведений):** Если вы изменяете, трансформируете или берёте этот материал за основу, вы не можете распространять изменённый материал.
+* **Attribution (Атрибуция):** Вы должны обеспечить соответствующее указание авторства и предоставить ссылку на оригинальный репозиторий.
+* **NonCommercial (Некоммерческое использование):** Вы не вправе использовать этот материал в коммерческих целях или для получения финансовой выгоды.
+* **NoDerivatives (Без производных произведений):** Если вы изменяете, трансформируете или берёте этот материал за основу, вы не можете распространять изменённый материал.
 
-🔗 **Official links to the full legal framework:**
-*   [Краткое содержание лицензии на русском](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru)
-*   [Полный юридический код лицензии (Legal Code) на русском](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ru)
+🔗 **Официальные ссылки на полный юридический текст:**
+* [Краткое содержание лицензии на русском языке](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru)
+* [Полный юридический текст лицензии на русском языке](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ru)
